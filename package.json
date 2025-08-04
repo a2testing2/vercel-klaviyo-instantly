@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@vercel/node": "^5.3.10"
+  }
 }
